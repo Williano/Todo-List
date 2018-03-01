@@ -64,9 +64,9 @@
   
   7. pip install -r requirements.txt  # install the requirements.
 
-  7. python manage.py migrate   # Migrate the data into the database.
+  8. python manage.py migrate   # Migrate the data into the database.
 
-  8. python manage.py runserver   # Run the server.
+  9. python manage.py runserver   # Run the server.
   
   NOTE: You can use any text editor or IDE of your choice. 
   ```
