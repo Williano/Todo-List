@@ -52,7 +52,7 @@
   
   2. Create second folder in the root or main folder called #TodoList and clone #(git clone url) the project into that folder.
   
-  2. Open the command prompt and navigate the project folder
+  2. Open the command prompt and navigate the project folder (Todo List)
   
   3. virtualenv TodoList-env   # Create a virtual environment for the project with it's own packages.
   
