@@ -24,7 +24,7 @@ mccabe==0.6.1
 mpmath==1.0.0
 numpy==1.14.0
 olefile==0.44
-opencv-python==3.4.0.12
+opencv-python==4.2.0.32
 pdfrw==0.4
 Pillow==8.3.2
 post==0.0.22
