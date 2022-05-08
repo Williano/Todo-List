@@ -1,7 +1,7 @@
 # Todo-List
 
 
-# A Django 2.0 Todo List Tutorial by [Pretty Printed](https://prettyprinted.com/)
+# A Django Todo List Tutorial by [Pretty Printed](https://prettyprinted.com/)
 
 
 ## Requirments
