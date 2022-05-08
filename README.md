@@ -4,8 +4,6 @@
 # A Django 2.0 Todo List Tutorial by [Pretty Printed](https://prettyprinted.com/)
 
 
-# Running the site locally
-
 ## Requirments
 
 * [Python 3.6.3](https://python.org)
